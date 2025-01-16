@@ -60,8 +60,9 @@ ln -fs ~/NRCAC/RCD-DK/causallearn/graph/GraphClass.py ~/env/lib/python3.8/site-p
 `--knowledge=True` option enables the knowledge-based approach for RCD-DK.
 
 ## Dataset
-In the `data` directory, we provide the synthetic dataset used in the paper.
+In the `data` directory, we provide the synthetic dataset used in the paper.  
 In the `dataset` directory, we provide the train-ticket dataset used in the paper.  
 All the datasets are examples and are used for demonstration and test purposes only.  
+Sock-shop datasets can be downloaded from [BARO](https://github.com/phamquiluan/baro?tab=readme-ov-file#download-datasets).
 
 `collectdata.py` and `builddep2.py` in each dataset directory are eCollection's scripts.
