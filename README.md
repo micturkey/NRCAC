@@ -7,7 +7,7 @@ All codes are distributed following MIT license.
 
 ## RCD-DK
 
-RCD-DK algorithm is based on [RCD algorithm](https://github.com/azamikram/rcd/tree/master), which is put in [RCD-DK](rcd-dk) directory.  
+RCD-DK algorithm is based on [RCD algorithm](https://github.com/azamikram/rcd/tree/master), which is put in [RCD-DK](RCD-DK) directory.  
 The codes are written in Python.
 
 ## eCollection
